@@ -1,5 +1,7 @@
 # Cardinal
-![Logo](https://upload.wikimedia.org/wikipedia/commons/9/9d/Right-handed_coordinate_system_%28y_to_front%29_whirl.png)
+![Logo](https://upload.wikimedia.org/wikipedia/en/3/35/PTJ_International_Finance_Center.jpeg)
+
+Our headquarters
 
 ## Welcome to Cardinal!
 Welcome to Cardinal, the best minecraft utility client, fulfilling all your utilities.
