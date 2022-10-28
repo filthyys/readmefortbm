@@ -10,4 +10,4 @@ This client includes some amazing code, such as:
 
 To prove we're competent developers, here's a math equation we solved: 
 
-###$\zeta(s) = \sum_{n=1}^\infty \frac{1}{n^s} = \frac{1}{1^s} + \frac{1}{2^s} + \frac{1}{3^s} + \cdots$
+$\zeta(s) = \sum_{n=1}^\infty \frac{1}{n^s} = \frac{1}{1^s} + \frac{1}{2^s} + \frac{1}{3^s} + \cdots$
